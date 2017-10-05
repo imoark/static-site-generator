@@ -1,0 +1,3 @@
+<h2>This is Post No. 1</h2>
+
+<p>What you are creating as a CMS is what is commonly referred to as a 'flat file cms'. they are called this because your content primarily exists as files as opposed to in a database. for a website or blog, many people prefer this approach because they are considerably faster and more secure in comparison to something like wordpress.

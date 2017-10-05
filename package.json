@@ -1,0 +1,16 @@
+{
+  "name": "static-site-generator",
+  "version": "1.0.0",
+  "description": "WMDD4935 Assignment 01",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "static",
+    "site",
+    "generator"
+  ],
+  "author": "Mario - Verma - Kalra",
+  "license": "ISC"
+}
